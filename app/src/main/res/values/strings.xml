@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidAnimation</string>
+    <string name="ripple_with_border">Ripple With Border</string>
+    <string name="ripple_without_border">Ripple Without Border</string>
+    <string name="custom_ripple_with_border">Custom Ripple With Border</string>
+    <string name="custom_ripple_without_border">Custom Ripple Without Border</string>
+    <string name="ripple_effect">Ripple Effect</string>
+    <string name="logo">logo</string>
+    <string name="animation">Animation</string>
+    <string name="profile_pic">profile_pic</string>
+    <string name="smartheard">smartheard</string>
+    <string name="exit_back_press">EXIT[Back Press]</string>
+    <string name="welcome_to_android_animation">Welcome to Android Animation</string>
+    <string name="explode_transition">Explode Transition</string>
+    <string name="slide_transition">Slide Transition</string>
+    <string name="fade_transition">Fade Transition</string>
+    <string name="android_animation">Android Animation</string>
+</resources>
